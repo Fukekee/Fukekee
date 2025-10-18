@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Fukekee
 - 👀 I’m interested in touchdesigner
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on TD
-- 📫 How to reach me _noway
-- 😄 Pronouns: brand new
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking to collaborate on game making
 - ⚡ Fun fact: ...
 
 <!---
