@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fukekee
-- 👀 I’m interested in touchdesigner
+- 👀 I’m interested in GameDev
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on game making
 - ⚡ Fun fact: ...
